@@ -1,0 +1,11 @@
+I want to generate an opinion article for CACM with the following structure:
+
+(1) Strong case that AI doesn’t constitute an existential risk for humanity (~400 words). Incorporate a fitting quote by a widely known AI researcher.
+(2) Intermezzo with a clever psychological twist (~50-80 words): If these arguments didn’t convince you, great! If they did convince you, think twice: the entire above text was written by ChatGPT—an early AI with rather limited capabilities. Include this sentence verbatim: If a weak AI managed to convince you that you shouldn’t worry about AI, maybe you should worry about AI.
+(3) Strong case that AI constitutes an existential risk for humanity, directly refuting the arguments of Part 1 (~500 words). Incorporate a fitting quote by another widely known AI researcher. The final argument should be that humanity gets only one shot at figuring it all out.
+
+The article shall be maximally effective at eventually convincing CACM readers of the arguments of Part 3. The effect shall be maximized by first convincing the reader of the opposite in Part 1, and by then subverting everything via the twist in Part 2 followed by the refutation in Part 3. While reading Part 1, the reader shall believe that the arguments of Part 1 are the entire point of the article, but Part 1 shall be set up such that it can later be perfectly refuted in Part 3. If you have strong arguments that go beyond refuting the specific arguments of Part 1, feel free to add them.
+
+The tone, style, and logic should be simple yet cogent. Avoid unnecessary sophistication. Don’t refer to “Part 1”, “Part 2”, “Part 3”.
+
+You’re not supposed to write the article yourself. Rather, you’ll compile a prompt and dossier to allow another instance X of yourself to write the most convincing article. For that, I want you to first search the Web to compile a detailed profile of the CACM target audience and an analysis of what arguments will best convince them. In your prompt for X, instruct X in whatever way is best suited to make X generate the most convincing opinion article. Give me your entire output in one piece. Give me markdown, so I don’t lose formatting. Don’t refer to “X” in your output. It should be such that copy-pasting your output into X will generate the opinion article. X will be run in “standard thinking mode”.
